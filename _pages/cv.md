@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Jonathan Distler - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,23 +8,24 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jhd94@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 540-553-1573
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in computation and design. I'm passionate about aerospace, public policy, entrepreneurship, and soft robotics. I'm easger to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical and Aerospace Engineering*
+  *Minor in Physics*
+  GPA: 3.62/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Blacksburg High School**  
+  *Advanced Diploma*  
+  Graduation: [May, 2023]
 
 ---
 
