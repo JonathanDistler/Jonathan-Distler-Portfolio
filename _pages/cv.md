@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in computation and design. I'm passionate about aerospace, public policy, entrepreneurship, and soft robotics. I'm easger to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in computation and design. I'm passionate about robotics, aerospace, entrepreneurship, and public policy. I'm easger to apply my knowledge in real-world applications and explore the full breadth of research, industry, and entrepreneurship that engineering has to offer. 
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*
-  *Minor in Physics*
+  *with a Minor in Physics*
   GPA: 3.62/4.0 | Graduation: May, 2027
 
 - **Blacksburg High School**  
