@@ -86,18 +86,6 @@ Virginia Tech Department of Mechanical Engineering; Blacksburg, Virginia
 - **Language Expansion Program Participant (Spanish)**  
 
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
 #### References
 Available upon request.
 
