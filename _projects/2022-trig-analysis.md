@@ -7,7 +7,7 @@
 
 # *Technologies:* [Fusion360, CAD Best Practices]
 
-image:![Top_Watch](https://github.com/user-attachments/assets/560c09b4-eff2-48dc-a0bb-263f2b5f1cee)![Orthographic_Watch](https://github.com/user-attachments/assets/eb3db8cd-1573-4302-97ff-f6ffc660c737)![Side_Watch](https://github.com/user-attachments/assets/f0e421e1-4021-466b-924b-83dc8f646903)
+![Top_Watch](https://github.com/user-attachments/assets/560c09b4-eff2-48dc-a0bb-263f2b5f1cee)![Orthographic_Watch](https://github.com/user-attachments/assets/eb3db8cd-1573-4302-97ff-f6ffc660c737)![Side_Watch](https://github.com/user-attachments/assets/f0e421e1-4021-466b-924b-83dc8f646903)
 
 
 
