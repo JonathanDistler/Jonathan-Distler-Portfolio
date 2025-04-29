@@ -28,3 +28,7 @@ During my time in the Aerospace Adversary lab under Dr. Gregory Falco, I worked 
 Below is a submap of the GPS system used:
 
 ![Submap of the GPS](https://github.com/user-attachments/assets/0067cc3e-60d7-4406-94e7-b9b1930a3b9a)
+
+![Position Querying Graph](https://github.com/user-attachments/assets/866a0878-7e57-4d7a-92d8-bd94cbaacf0b)
+
+
