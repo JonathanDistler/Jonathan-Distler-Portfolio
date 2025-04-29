@@ -16,8 +16,7 @@ Transcript:
 
 ---
 
-#### Objective
-# Aspiring Engineering Student
+## Objective
 
 # Aspiring Engineering Student
 
