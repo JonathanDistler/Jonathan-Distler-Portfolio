@@ -3,5 +3,6 @@ I contributed to a cross-disciplinary research initiative aimed at developing a 
 [Research paper on drone delivery framework](https://ieeexplore.ieee.org/document/10569807)
 
 Photo of myself and a project-collaborator at the conference:
+
 ![Mipro Conference Photograph](https://github.com/user-attachments/assets/52163c03-747a-431f-b698-d4f4cd277c0e)
 
