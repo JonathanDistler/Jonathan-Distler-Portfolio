@@ -5,7 +5,11 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/CV.[Distler CV](https://github.com/user-attachments/files/19951278/Jonathan.Distler.CV.pdf)
+pdf" | relative_url }}) in PDF format.
+Transcript:
+[Distler Transcript Spring 2025](https://github.com/user-attachments/files/19951280/Jonathan_Distler_Transcript_25.pdf)
+
 
 
 **Email:** [jhd94@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 540-553-1573
@@ -30,9 +34,9 @@ Aspiring engineering student with a strong foundation in computation and design.
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, ROS/ROS 2, Linux, Marvelmind
+- **Programming:** Python, MATLAB, C
+- **Tools:** 3D Printing, Laser Cutting, Rapid Prototyping
 
 ---
 
