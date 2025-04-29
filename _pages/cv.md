@@ -29,45 +29,62 @@ Looking ahead, I am thrilled to continue exploring the forefront of engineering 
 
 ---
 
-#### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*
-  *with a Minor in Physics*
-  GPA: 3.62/4.0 | Graduation: May, 2027
-
-- **Blacksburg High School**  
-  *Advanced Diploma*  
-  Graduation: May, 2023
+# Education  
+**Bachelor’s Degree in Science**  
+Cornell University; Ithaca, New York *(Expected Graduation May 2027)*  
+- **Major**: Mechanical Engineering  
+- **Minor**: Physics  
+- **GPA**: 3.62
+- **Selected Coursework**: Electricity and Magnetism Honors, Lasers and Photonics, Special Relativity, Independent Research
 
 ---
 
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, ROS/ROS 2, Linux, Marvelmind
-- **Programming:** Python, MATLAB, C
-- **Tools:** 3D Printing, Laser Cutting, Rapid Prototyping
+# Skills  
+- **General Software**: C++, Python, Matlab, Markdown, AutoCAD 25, Java, Fusion 360  
+- **Data Analysis**: Python for Data Analysis, Numpy, Data Retrieval, Data Analysis, JSON, API  
+- **Simulation Systems**: Linux, ROS (Robot Operating System)  
+- **Interpersonal**: Teamwork, Constructive Feedback, Academic Writing, Engaging Presentation Skills  
+- **Process**: Rapid Prototyping, Simulation Techniques, Methodology, Multidisciplinary Research  
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+# Experience and Leadership  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+## Biomechanical Engineering Project Intern *(June 2024–August 2024)*  
+Virginia Tech Department of Mechanical Engineering; Blacksburg, Virginia  
+- Created an H-Bot control system to time-stamp ultrasound images of octopus movements using Matlab and Serial Communication techniques to improve surface scan accuracy of soft tissue.  
+- Successfully developed a novel soft robotic muscle prototype capable of expanding and contracting to intended diameters and lengths through material property analysis as part of a research team.  
+- Developed a software program in Java to model the muscle’s movements.  
+
+## Magpie Aerospace Engineering Project Intern *(January 2024–Present)*  
+Cornell University Aerospace Adversary Lab; Ithaca, New York  
+- Collaborated with a multidisciplinary team on aerospace and cybersecurity projects funded by the U.S. Department of Energy.  
+- Applied SITL, ROS 2, Gazebo, C++, and Python to develop autonomous 6-degree-of-freedom drone simulations for obstacle avoidance.  
+- Co-authored a systems paper on autonomous drones, which was submitted to a journal.  
+
+## Assistant Manager *(August 2019–Present)*  
+Storm Water Solutions; Blacksburg, Virginia  
+- Utilized civil and environmental engineering techniques to preserve bioretention ponds and prevent flooding as part of Blacksburg Town Council’s Stormwater Initiative.  
+- Implemented changes to bioretention ponds that passed all town-sanctioned inspections.  
+
+## Computer Science Genome Data Analysis Intern *(May 2022–September 2022)*  
+Virginia Tech Department of Computer Science; Blacksburg, Virginia  
+- Created an interactive Python notebook using JSON and APIs to retrieve and analyze expansive datasets to showcase trends among the 500 fastest benchmarked computers in the world.  
+- Derived insights from the datasets and successfully published findings under the CS Genome Project.  
+
+## Human-Drone Interaction Research Intern *(December 2023–June 2024)*  
+Virginia Tech Department of Mechanical Engineering; Blacksburg, Virginia  
+- Co-developed a conceptual framework for a mass drone delivery system to address food insecurity in rural communities.  
+- Co-authored a paper presented at the IEEE Region 8 MIPRO Conference (Exploring the Utilization of Drone Technology to Promote Food Security).  
 
 ---
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+# Awards and Extracurricular Activities  
+- **Woods Excellence Award**  
+- **Switch the Pitch Hackathon**: AI Technical Solution Award Winner  
+- **Cornell Men’s Club Rugby**  
+- **Language Expansion Program Participant (Spanish)**  
 
----
 
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
