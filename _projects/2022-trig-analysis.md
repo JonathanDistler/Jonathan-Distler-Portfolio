@@ -5,13 +5,13 @@ Class Project with CAD Renderings
 
  [Fusion360, CAD Best Practices]
  
- <img src="https://github.com/user-attachments/assets/1d375558-09f3-43fa-8c63-2fd5b073dfc4" alt="Extra_Watch_Image" width="400" style="display:block; margin-bottom: 10px;"/>
+ <img src="https://github.com/user-attachments/assets/1d375558-09f3-43fa-8c63-2fd5b073dfc4" alt="Extra_Watch_Image" width="200" style="display:block; margin-bottom: 10px;"/>
 
-<img src="https://github.com/user-attachments/assets/560c09b4-eff2-48dc-a0bb-263f2b5f1cee" alt="Top_Watch" width="400" style="display:block; margin-bottom: 10px;"/>
+<img src="https://github.com/user-attachments/assets/560c09b4-eff2-48dc-a0bb-263f2b5f1cee" alt="Top_Watch" width="200" style="display:block; margin-bottom: 10px;"/>
 
-<img src="https://github.com/user-attachments/assets/eb3db8cd-1573-4302-97ff-f6ffc660c737" alt="Orthographic_Watch" width="400" style="display:block; margin-bottom: 10px;"/>
+<img src="https://github.com/user-attachments/assets/eb3db8cd-1573-4302-97ff-f6ffc660c737" alt="Orthographic_Watch" width="200" style="display:block; margin-bottom: 10px;"/>
 
-<img src="https://github.com/user-attachments/assets/f0e421e1-4021-466b-924b-83dc8f646903" alt="Side_Watch" width="400" style="display:block; margin-bottom: 10px;"/>
+<img src="https://github.com/user-attachments/assets/f0e421e1-4021-466b-924b-83dc8f646903" alt="Side_Watch" width="200" style="display:block; margin-bottom: 10px;"/>
 
 
 
