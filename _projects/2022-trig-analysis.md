@@ -1,25 +1,17 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
----
+title: CAD Watch Model
+description: Class Project with CAD Renderings
+technologies: [Fusion360, CAD Best Practices]
+image: /assets/images/function-gr![Top_Watch](https://github.com/user-attachments/assets/560c09b4-eff2-48dc-a0bb-263f2b5f1cee)![Orthographic_Watch](https://github.com/user-attachments/assets/eb3db8cd-1573-4302-97ff-f6ffc660c737)![Side_Watch](https://github.com/user-attachments/assets/f0e421e1-4021-466b-924b-83dc8f646903)
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+As part of a class project for Mechanical Design (MAE 2250). I was tasked with drawing and then developing an accurate CAD model for a household object. I chose the Seiko SRPG 41. 
 
 
-This is how I solved the problem:
+My initial process involved dimensioning each component of the watch, from the circumference and diameter of the face to the depth of the dial. Then, I developed unique "parts" for each system, involving core geometries and time-saving processes (ie mirroring). Then, I combined all of the unique "parts" together into one functional CAD model. Finally, I added "joints" that helped define the real-world physics of the watch. 
 
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 
