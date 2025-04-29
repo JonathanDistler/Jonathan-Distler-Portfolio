@@ -1,4 +1,4 @@
-```
+---
 # Mechanical Design Class Project (MAE 2250)
 
 As part of a class project for **Mechanical Design (MAE 2250)**, I was tasked with drawing and then developing an accurate CAD model for a household object. I chose the **Seiko SRPG 41**.
@@ -32,7 +32,7 @@ I focused on understanding how the components interacted with each other. Everyt
 - **Watch Band Design**:
   - Struggled with the angular constraints of the watch bands.
   - Found it easier to constrain one side fully and then mirror it across the center of the strap.
-```
+---
 
 - **Repeated Tasks**:
   - Making individual holes in the watch band was time-consuming.
