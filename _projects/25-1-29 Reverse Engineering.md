@@ -1,4 +1,4 @@
-# Design Project: Speaker Stand
+# Design Project: Product Reverse Engineering
 
 For this project, I was tasked with taking apart a household object, sketching the object, and then explaining the design components of the object, as well as whether or not I thought it was well-designed.
 
