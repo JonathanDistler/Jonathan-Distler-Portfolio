@@ -1,8 +1,8 @@
 During my time at Virginia Tech in the Biomechanics Lab under Dr. Noel Naughton, I contributed to groundbreaking advancements in soft robotics:
 
-- **Prototyping Methods**: Developed innovative approaches for a soft-robotic snake, focusing on precision and efficiency.
-- **H-Bot Control System**: Designed and implemented a control system to synchronize and time-stamp ultrasound images of octopus movements, employing MATLAB and serial communication techniques to achieve highly accurate surface scans of soft tissue.
-- **Soft Robotic Muscle Prototype**: Collaborated with a research team to engineer a novel prototype capable of expanding and contracting to exact diameters and lengths. This achievement involved rigorous material property analysis and problem-solving.
+- **Prototyping Methods**: Developed innovative approaches for a soft-robotic snake, focusing on developing an inner core that can increase its size radially according to control systems analogous to a "Chinese-Finger Trap", where elongation leads to a larger diameter, and shrinkage leads to a smaller diameter.
+- **H-Bot Control System**: Designed and implemented a control system to synchronize and time-stamp ultrasound images of octopus images taken via an ultrasound device, employing MATLAB and serial communication techniques to achieve highly accurate surface scans of soft tissue.
+- **Soft Robotic Muscle Prototype**: Collaborated with a research team to engineer a novel prototype capable of expanding and contracting to exact diameters and lengths. This achievement involved rigorous material property analysis, problem-solving, and rapid prototyping.
 
 Below is an image of the H-Bot control system:
 
