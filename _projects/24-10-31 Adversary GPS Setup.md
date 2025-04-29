@@ -5,6 +5,9 @@ During my time in the Aerospace Adversary lab under Dr. Gregory Falco, I worked 
 ## Contributor to an Autonomous Satellite Paper
 [Peer-reviewed cybersecurity and AI algorithm paper](https://scholarspace.manoa.hawaii.edu/items/)
 
+## Github Repository for Drone Localization
+[Marvelmind Localization Github](https://github.com/JonathanDistler/MarvelmindModularization)
+
 ## System Overview
 - The Marvelmind GPS system was employed to locate the drone relative to a semi-arbitrary "origin."
 - Together, we developed a Python script to query the position of the drone.
