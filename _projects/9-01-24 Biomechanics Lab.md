@@ -12,4 +12,4 @@ Below are images of the soft-robotic snake prototype:
 
 <img src="https://github.com/user-attachments/assets/90475b4f-2657-49d9-ba38-54d53992b05e" alt="Snake Inside-Core" width="300px">
 
-<img src="https://github.com/user-attachments/assets/a17de2a6-3d5e-4f56-80b3-32ddf70e2095" alt="Snake Prototype" width="300px">
+<img src="https://github.com/user-attachments/assets/05139e00-f56f-4702-8a57-734617ed7934" alt="Snake Prototype" width="300px">
