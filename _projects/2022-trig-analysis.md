@@ -1,6 +1,4 @@
 ---
-*Layout:* project
-
 # CAD Watch Model
 
 Class Project with CAD Renderings
@@ -12,6 +10,9 @@ Class Project with CAD Renderings
 <img src="https://github.com/user-attachments/assets/eb3db8cd-1573-4302-97ff-f6ffc660c737" alt="Orthographic_Watch" width="300" style="display:block; margin-bottom: 10px;"/>
 
 <img src="https://github.com/user-attachments/assets/f0e421e1-4021-466b-924b-83dc8f646903" alt="Side_Watch" width="300" style="display:block; margin-bottom: 10px;"/>
+
+<a href="https://github.com/user-attachments/files/19950808/CAD.Creative.pdf" style="display:block; margin-bottom: 10px;">CAD Creative.pdf</a>
+
 
 
 
