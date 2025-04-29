@@ -25,6 +25,18 @@ My role in the team included:
 ### Final Prototype:  
 ![Final Prototype](https://github.com/user-attachments/assets/3116faeb-2603-4005-a3f3-df9342f48c5e)
 
+### Small Scale Prototype:
+![Small Scale Prototype](https://github.com/user-attachments/assets/0d29284f-6146-44aa-be1a-6ef20cab7a53)
+
+### Original CAD Model:
+![Original CAD Side-View](https://github.com/user-attachments/assets/780bd44e-8e94-42db-ac9e-fc93f3dd17b2)
+
+
+### Final CAD Model:
+![Final CAD Side-View](https://github.com/user-attachments/assets/d0f3de64-52b0-4516-8e6c-e3cae1ad09ba)
+![Final CAD Functional Side-View](https://github.com/user-attachments/assets/8d44d4bf-badc-4819-a3e3-08db944632c1)
+
+
 ---
 
 ## Design Components
