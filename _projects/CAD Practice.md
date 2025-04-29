@@ -2,6 +2,10 @@
 # Mechanical Design Class Project (MAE 2250)
 
 As part of a class project for **Mechanical Design (MAE 2250)**, I was tasked with drawing and then developing an accurate CAD model for a household object. I chose the **Seiko SRPG 41**.
+![Top_Watch](https://github.com/user-attachments/assets/697e0e90-8757-4ed4-8dff-9673adcd7431)
+![Orthographic_Watch](https://github.com/user-attachments/assets/b9fc4eaf-21c8-40f9-b4f8-905d22056739)
+![Side_Watch](https://github.com/user-attachments/assets/dac383db-b08f-4e4d-bc74-556d1e988ba9)
+
 
 ## Initial Process
 
