@@ -11,8 +11,7 @@ Class Project with CAD Renderings
 
 <img src="https://github.com/user-attachments/assets/f0e421e1-4021-466b-924b-83dc8f646903" alt="Side_Watch" width="300" style="display:block; margin-bottom: 10px;"/>
 
-<a href="https://github.com/user-attachments/files/19950808/CAD.Creative.pdf" style="display:block; margin-bottom: 10px;">CAD Creative.pdf</a>
-
+<img src="https://github.com/user-attachments/assets/1d375558-09f3-43fa-8c63-2fd5b073dfc4" alt="Extra_Watch_Image" width="300" style="display:block; margin-bottom: 10px;"/>
 
 
 
