@@ -18,10 +18,7 @@ The research was documented in a paper, accessible here:
 
 ---
 
-## Conference Memories  
-
-### Photo Gallery  
-Photo of myself and a project collaborator at the conference:  
+## Photo of myself and a project collaborator at the conference:  
 
 ![Mipro Conference Photograph](https://github.com/user-attachments/assets/52163c03-747a-431f-b698-d4f4cd277c0e)  
 
