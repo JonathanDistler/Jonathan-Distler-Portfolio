@@ -5,7 +5,7 @@ During my time at **Virginia Tech** in the **Biomechanics Lab** under Dr. Noel N
 ---
 
 #### **Prototyping Methods**
-- Developed innovative approaches for a soft-robotic snake.
+- Developed innovative approaches for a soft-robotic snake using a McKibben Actuator (https://www.intechopen.com/chapters/80403).
 - Focused on an inner core inspired by a "Chinese-Finger Trap" mechanism: elongation results in a larger diameter, while shrinkage leads to a smaller diameter.
 
 ---
