@@ -6,7 +6,7 @@ $text-color: #333;
 // Set theme colors based on the color_scheme variable
 @if $color_scheme == 'dark' {
   $primary-color: #333;
-  $background-color: #000;
+  $background-color: #0000ff;
   $text-color: #fff;
 } @else if $color_scheme == 'aqua' {
   $primary-color: #598392;
