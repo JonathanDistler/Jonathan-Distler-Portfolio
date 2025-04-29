@@ -1,6 +1,6 @@
 ### Systems Subteam Member – Cornell Hyperloop
 
-As a member of the Systems Subteam on **Cornell Hyperloop**, I contribute to the development of innovative solutions for the team’s structural and integration needs, including the design of the **battery pack enclosure**, **electrical harness routing**, and **microelectronic mounting systems**. I actively participate in **weekly team meetings**, engaging in technical discussions and contributing to decisions on **best design practices**. My responsibilities also include performing **hand calculations** to analyze **heat transfer** into the battery packs and **developing and modeling the stress and strain** behavior of structural components to ensure safety, reliability, and performance.
+As a member of the Systems Subteam on **Cornell Hyperloop**, I contribute to the development of innovative solutions for the team’s structural and integration needs, including the design of the **battery pack enclosure**, **electrical harness routing**, and **microelectronic mounting systems**. I actively participate in **weekly team meetings**, engaging in technical discussions and contributing to decisions on **best design practices**. My responsibilities also include performing **hand calculations** to analyze **heat transfer** into the battery packs and **developing and modeling the stress and strain** behavior of structural components to ensure safety, reliability, and performance. I was also responsible for machining and fabricating different parts for the team, using rapid prototyping strategies like 3D-printing, laser cutting, and milling. 
 
 ## Battery Pack Enclosure (ANSYS Thermal & Structural Views)
 
@@ -12,11 +12,11 @@ As a member of the Systems Subteam on **Cornell Hyperloop**, I contribute to the
 
 ## Electrical Harness (Front, Isometric, Side)
 
-<img src="https://github.com/user-attachments/assets/366c7cbb-7987-4516-a59f-2293e20f82cd" alt="Harness Front" width="300" />
+<img src="https://github.com/user-attachments/assets/366c7cbb-7987-4516-a59f-2293e20f82cd" alt="Harness Front" width="100" />
 <br>
-<img src="https://github.com/user-attachments/assets/fd2b0485-cbe4-4de7-85a1-7dbbe87e61a1" alt="Harness Isometric" width="300" />
+<img src="https://github.com/user-attachments/assets/fd2b0485-cbe4-4de7-85a1-7dbbe87e61a1" alt="Harness Isometric" width="100" />
 <br>
-<img src="https://github.com/user-attachments/assets/c41a23d1-d9cb-46f2-8ed5-09b502c40cd1" alt="Harness Side" width="300" />
+<img src="https://github.com/user-attachments/assets/c41a23d1-d9cb-46f2-8ed5-09b502c40cd1" alt="Harness Side" width="100" />
 
 ---
 
