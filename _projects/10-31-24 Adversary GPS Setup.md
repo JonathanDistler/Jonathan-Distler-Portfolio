@@ -2,6 +2,9 @@
 
 During my time in the Aerospace Adversary lab under Dr. Gregory Falco, I worked on developing an indoor GPS system alongside a team member to accurately determine the position of a drone. Below is a summary of the project and my contributions:
 
+## Contributor to an Autonomous Satellite Paper
+[Peer-reviewed cybersecurity and AI algorithm paper](https://scholarspace.manoa.hawaii.edu/items/)
+
 ## System Overview
 - The Marvelmind GPS system was employed to locate the drone relative to a semi-arbitrary "origin."
 - Together, we developed a Python script to query the position of the drone.
@@ -31,7 +34,6 @@ Below is a submap of the GPS system used:
 
 ![Position Querying Graph](https://github.com/user-attachments/assets/866a0878-7e57-4d7a-92d8-bd94cbaacf0b)
 
-[Peer-reviewed cybersecurity and AI algorithm paper](https://scholarspace.manoa.hawaii.edu/items/)
 
 
 
