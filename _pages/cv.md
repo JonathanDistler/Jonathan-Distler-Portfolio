@@ -24,7 +24,7 @@ Aspiring engineering student with a strong foundation in computation and design,
 
 Currently, I am a member of the Cornell University Hyperloop team on the Structures Subteam, where I contribute to designing and optimizing the structural components of cutting-edge Hyperloop technology ([Cornell Hyperloop](https://www.cornellhyperloop.com/)).
 
-Looking ahead, I am thrilled to continue exploring the forefront of engineering as I join Dr. Robert Katzschmann's Soft-Robotics Lab at ETH Zurich ([Soft Robotics Lab](https://srl.ethz.ch/)). Engineering is not just a discipline but a launchpad to explore the intersection of research, industry, and entrepreneurship. With a thirst for discovery and a commitment to innovation, I aim to contribute meaningfully to advancing technology that shapes our future.
+Looking ahead, I am thrilled to continue exploring the forefront of engineering as I join Dr. Robert Katzschmann's Soft-Robotics Lab at ETH Zurich ([Soft Robotics Lab](https://srl.ethz.ch/)). I aim to contribute meaningfully to advancing technology that shapes our future.
 
 
 ---
