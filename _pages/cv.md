@@ -5,8 +5,8 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV][Distler CV](https://github.com/user-attachments/files/19951278/Jonathan.Distler.CV.pdf)
-pdf" | relative_url }}) in PDF format.
+[Download my CV](https://github.com/user-attachments/files/19951278/Jonathan.Distler.CV.pdf) in PDF format.
+
 Transcript:
 [Distler Transcript Spring 2025](https://github.com/user-attachments/files/19951280/Jonathan_Distler_Transcript_25.pdf)
 
