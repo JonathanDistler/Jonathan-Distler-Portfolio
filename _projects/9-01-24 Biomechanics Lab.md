@@ -5,9 +5,12 @@ During my time at Virginia Tech in the Biomechanics Lab under Dr. Noel Naughton,
 - **Soft Robotic Muscle Prototype**: Collaborated with a research team to engineer a novel prototype capable of expanding and contracting to exact diameters and lengths. This achievement involved rigorous material property analysis and problem-solving.
 
 Below is an image of the H-Bot control system:
+
 ![H-Bot Control System](https://github.com/user-attachments/assets/a4e390ac-45d0-4779-a1ff-93fd03fab4b8)
 
+
 Below are images of the soft-robotic snake prototype:
+
 ![Snake Inside-Core](https://github.com/user-attachments/assets/90475b4f-2657-49d9-ba38-54d53992b05e)
 
 ![Snake Prototype](https://github.com/user-attachments/assets/a17de2a6-3d5e-4f56-80b3-32ddf70e2095)
