@@ -17,7 +17,9 @@ Transcript:
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in computation and design. I'm passionate about robotics, aerospace, entrepreneurship, and public policy. I'm easger to apply my knowledge in real-world applications and explore the full breadth of research, industry, and entrepreneurship that engineering has to offer. 
+Aspiring engineering student with a strong foundation in computation and design, driven by a passion for robotics, aerospace, entrepreneurship, and public policy. My journey has been shaped by hands-on experience in the Biomechanics Lab at Virginia Tech, where I delved into innovative soft-robotics research under the mentorship of Dr. Noel Naughton. Looking ahead, I am thrilled to continue exploring the cutting edge of engineering as I join Dr. Robert Katzschmann's Soft-Robotics Lab at ETH Zurich.
+
+I am eager to apply my skills to real-world applications, pushing the boundaries of what is possible in robotics and beyond. Engineering is not just a discipline but a launchpad to explore the intersection of research, industry, and entrepreneurship. With a thirst for discovery and a commitment to innovation, I aim to contribute meaningfully to advancing technology that shapes our future.
 
 ---
 
@@ -29,7 +31,7 @@ Aspiring engineering student with a strong foundation in computation and design.
 
 - **Blacksburg High School**  
   *Advanced Diploma*  
-  Graduation: [May, 2023]
+  Graduation: May, 2023
 
 ---
 
