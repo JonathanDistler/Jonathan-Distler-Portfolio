@@ -31,4 +31,7 @@ Below is a submap of the GPS system used:
 
 ![Position Querying Graph](https://github.com/user-attachments/assets/866a0878-7e57-4d7a-92d8-bd94cbaacf0b)
 
+[Peer-reviewed cybersecurity and AI algorithm paper](https://scholarspace.manoa.hawaii.edu/items/)
+
+
 
