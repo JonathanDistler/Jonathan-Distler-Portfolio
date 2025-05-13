@@ -1,8 +1,4 @@
----
-layout: default
-title: Jonathan Distler - Curriculum Vitae
-permalink: /cv/
----
+
 ## Curriculum Vitae
 
 [Download my CV](https://github.com/user-attachments/files/19951278/Jonathan.Distler.CV.pdf) in PDF format.
