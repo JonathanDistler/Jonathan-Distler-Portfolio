@@ -8,7 +8,7 @@ Transcript:
 
 
 
-**Email:** [jhd94@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 540-553-1573
+**Email:** [jhd94@cornell.edu](mailto:netID@cornell.edu) | **Phone:** +1 540-553-1573
 
 ---
 
