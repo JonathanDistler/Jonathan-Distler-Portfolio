@@ -1,4 +1,12 @@
-### Systems Subteam Member – Cornell Hyperloop
+---
+layout: default
+title: Cornell Hyperloop
+---
+
+<div class="section-title" data-aos="fade-right">Cornell Hyperloop</div>
+<div class="card project-card shadow-sm mb-4" data-aos="fade-up">
+  <div class="card-body">
+    ### Systems Subteam Member – Cornell Hyperloop
 
 As a member of the Systems Subteam on **Cornell Hyperloop**, I contribute to the development of innovative solutions for the team’s structural and integration needs, including the design of the **battery pack enclosure**, **electrical harness routing**, and **microelectronic mounting systems**. I actively participate in **weekly team meetings**, engaging in technical discussions and contributing to decisions on **best design practices**. My responsibilities also include performing **hand calculations** to analyze **heat transfer** into the battery packs and **developing and modeling the stress and strain** behavior of structural components to ensure safety, reliability, and performance. I was also responsible for machining and fabricating different parts for the team, using rapid prototyping strategies like 3D-printing, laser cutting, and milling. 
 
@@ -41,3 +49,6 @@ As a member of the Systems Subteam on **Cornell Hyperloop**, I contribute to the
 <img src="https://github.com/user-attachments/assets/0e9c1f08-9985-414b-bca7-53d99d36c884" alt="MicroElectronics Holder Orthographic" width="300" />
 <br>
 <img src="https://github.com/user-attachments/assets/b166fa72-f969-4748-964a-ee9704818e9d" alt="MicroElectronics Holder Side" width="300" />
+
+  </div>
+</div>
