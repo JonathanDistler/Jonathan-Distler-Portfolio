@@ -1,4 +1,12 @@
 ---
+layout: default
+title: CAD Household Practice
+---
+
+<div class="section-title" data-aos="fade-right">CAD Household Practice</div>
+<div class="card project-card shadow-sm mb-4" data-aos="fade-up">
+  <div class="card-body">
+    ---
 # Mechanical Design Class Project (MAE 2250)
 
 As part of a class project for **Mechanical Design (MAE 2250)**, I was tasked with drawing and then developing an accurate CAD model for a household object. I chose the **Seiko SRPG 41**.
@@ -26,3 +34,7 @@ I think that in the future I would do a similar strategy, but I would try to bui
 I had the most trouble with the angular design of the watch bands. I tried to constrain both sides individually, but I ended up finding it easier to fully constrain one side and then mirror across the center of the strap. 
 
 I also found it time-consuming to make each individual hole in the watch band. I couldn’t figure out an easy way to do a repeated task like that, but I hope to find a solution in the future.
+
+```
+  </div>
+</div>
