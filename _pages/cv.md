@@ -1,7 +1,16 @@
+---
+layout: default
+title: CV
+permalink: /cv/
+---
 
-## Curriculum Vitae
-
-[Download my CV](https://github.com/user-attachments/files/19951278/Jonathan.Distler.CV.pdf) in PDF format.
+<div class="section-title" data-aos="fade-right">Curriculum Vitae</div>
+<div class="card shadow-sm mb-4" data-aos="fade-up">
+  <div class="card-body">
+    <embed src="{{ "/assets/CV.pdf" | relative_url }}" type="application/pdf" width="100%" height="800px" />
+    <p class="mt-3"><a href="{{ "/assets/CV.pdf" | relative_url }}" class="btn btn-primary">Download CV (PDF)</a></p>
+  </div>
+</div>
 
 Transcript:
 [Distler Transcript Spring 2025](https://github.com/user-attachments/files/19951280/Jonathan_Distler_Transcript_25.pdf)
