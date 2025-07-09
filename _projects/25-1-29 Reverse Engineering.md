@@ -1,4 +1,12 @@
-# Design Project: Product Reverse Engineering
+---
+layout: default
+title: Reverse Engineering
+---
+
+<div class="section-title" data-aos="fade-right">Reverse Engineering</div>
+<div class="card project-card shadow-sm mb-4" data-aos="fade-up">
+  <div class="card-body">
+    # Design Project: Product Reverse Engineering
 
 For this project, I was tasked with taking apart a household object, sketching the object, and then explaining the design components of the object, as well as whether or not I thought it was well-designed.
 
@@ -31,3 +39,5 @@ Some aspects of the stand may be over-designed:
 
 ## Conclusion
 Overall, I consider this a well-designed product with one key over-designed aspect. The stand’s compactness, stability, and adjustable height make it a valuable tool for consumers needing versatile audio setups, despite the redundancy in its stability features.
+  </div>
+</div>
