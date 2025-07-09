@@ -1,4 +1,12 @@
-# Project Overview
+---
+layout: default
+title: Original Design Prototype
+---
+
+<div class="section-title" data-aos="fade-right">Original Design Prototype</div>
+<div class="card project-card shadow-sm mb-4" data-aos="fade-up">
+  <div class="card-body">
+    # Project Overview
 
 For this project, our group was tasked with developing an object to address the needs of a specific group of people. After conducting interviews, we identified a market need for space-saving gym equipment that can be utilized in small living spaces.
 
