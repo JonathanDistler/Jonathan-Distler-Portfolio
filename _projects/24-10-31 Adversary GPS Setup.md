@@ -1,4 +1,12 @@
-# Development of Indoor GPS System for Drone Localization
+---
+layout: default
+title: Adversary GPS Setup
+---
+
+<div class="section-title" data-aos="fade-right">Adversary GPS Setup</div>
+<div class="card project-card shadow-sm mb-4" data-aos="fade-up">
+  <div class="card-body">
+    # Development of Indoor GPS System for Drone Localization
 
 During my time in the Aerospace Adversary lab under Dr. Gregory Falco, I worked on developing an indoor GPS system alongside a team member to accurately determine the position of a drone. Below is a summary of the project and my contributions:
 
@@ -36,6 +44,13 @@ Below is a submap of the GPS system used:
 ![Submap of the GPS](https://github.com/user-attachments/assets/0067cc3e-60d7-4406-94e7-b9b1930a3b9a)
 
 ![Position Querying Graph](https://github.com/user-attachments/assets/866a0878-7e57-4d7a-92d8-bd94cbaacf0b)
+
+
+
+
+
+  </div>
+</div>
 
 
 
