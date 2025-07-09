@@ -1,25 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 repository: JonathanDistler/Jonathan-Distler-Portfolio
 
 # Site Settings
-locale                   : "en-US"
-title                    : Jonathan Distler
-title_separator          : "-"
-subtitle                 : # Jonathan Distler's Projects and CV
-name                     : Jonathan Distler
-description              : Jonathan Distler - Projects and CV 
-baseurl                  : "" # Set this to "portfolio-<your-github-username>" 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale: "en-US"
+title: Jonathan Distler
+title_separator: "-"
+name: Jonathan Distler
+description: Jonathan Distler - Projects and CV
+baseurl: "" # For user/organization site, leave this empty
+url: "https://jonathandistler.github.io" # Your site URL
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: aqua # light/default, dark, or aqua
+color_scheme: aqua
 
 sass:
   style: compressed
@@ -28,20 +20,17 @@ sass:
 permalink: /:categories/:title/
 
 collections:
-  pages:
-    output: true
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:name/
 
 # Markdown
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
-
